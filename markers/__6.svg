@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<title>Pet supplies retail - shopping cart</title>
+<g stroke="#C75B12" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M15 23h14l12 58a9 9 0 0 0 9 7h48" fill="none"/>
+<path d="M35 39h78l-10 39H43" fill="#F4A261"/>
+<path d="M51 49v21M70 49v21M89 49v21" fill="none" stroke="#fff" stroke-width="5"/>
+<circle cx="57" cy="105" r="8" fill="#C75B12" stroke="none"/><circle cx="97" cy="105" r="8" fill="#C75B12" stroke="none"/>
+</g></svg>

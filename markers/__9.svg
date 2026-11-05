@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<title>Pet boarding - doghouse with paw</title>
+<path d="M12 56 64 16l52 40v56H12Z" fill="#3D6FA5" stroke="#254B73" stroke-width="7" stroke-linejoin="round"/>
+<path d="M43 112V79a21 21 0 0 1 42 0v33" fill="#F5F8FC"/>
+<g fill="#3D6FA5">
+<ellipse cx="64" cy="88" rx="11" ry="9"/>
+<circle cx="49" cy="75" r="6"/><circle cx="59" cy="68" r="6"/><circle cx="70" cy="68" r="6"/><circle cx="80" cy="75" r="6"/>
+</g></svg>
